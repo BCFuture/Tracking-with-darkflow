@@ -14,6 +14,7 @@ Currently support people tracking (as the provided weights for deep_sort were tr
     tensorflow 1.0
     Cython.
     sklean.
+    
 
 for using sort :
 
