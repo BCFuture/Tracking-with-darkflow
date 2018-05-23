@@ -11,6 +11,7 @@ Currently support people tracking (as the provided weights for deep_sort were tr
     python
     numpy
     opencv 3
+    opencv-contrib
     tensorflow 1.0
     Cython.
     sklean.
